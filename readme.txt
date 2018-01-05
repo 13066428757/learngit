@@ -20,3 +20,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 
 第二次修改
+Creating a new branch is quick.
